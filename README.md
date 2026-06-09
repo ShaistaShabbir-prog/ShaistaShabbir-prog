@@ -171,11 +171,11 @@ class Researcher:
 
 | 🏅 Award | 📍 Institution | 📅 Year |
 |---------|---------------|---------|
-| 🥇 **Gold Medal — 1st Position BSCS** | University of AJK (CGPA 3.98/4.00) | 2016 |
+| 🥇 **Gold Medal — 1st Position BSCS** | University of AJK · CGPA 3.98/4.00 · Grade A | 2016 |
 | 🎓 **DAAD Scholarship** | German Academic Exchange Service | 2022 |
-| 🏛️ **Reference Letter** | HITeC e.V. / University of Hamburg (Dr. Lothar Hotz) | 2024 |
 | 🏸 **Badminton Championship** | Singles & Doubles — 3 Consecutive Years | 2012–2016 |
-| 💼 **Research Associate** | TU Dortmund University & Lamarr Institute | 2025– |
+
+*More awards and certifications coming soon.*
 
 </div>
 
@@ -227,8 +227,15 @@ class Researcher:
 
 <div align="center">
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<!-- Snake animation (auto-generated daily) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg"
+    alt="github contribution grid snake animation" width="100%" />
+</picture>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
