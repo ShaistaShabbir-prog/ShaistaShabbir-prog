@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:ec4899,100:4f46e5&amp;height=200&amp;section=header&amp;text=Shaista%20Shabbir&amp;fontSize=48&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Research%20Associate%20%7C%20TU%20Dortmund%20%7C%20Lamarr%20Institute%20for%20ML%20%26%20AI&amp;descAlignY=58&amp;descSize=15" width="100%" alt="Shaista Shabbir profile banner"/>
+<img src="./assets/profile-banner.svg" width="100%" alt="Shaista Shabbir profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Industrial+AI+Researcher+%F0%9F%A4%96;Machining+Stability+%7C+Chatter+Detection;Acoustic+Monitoring+%7C+Signal+Processing;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+%C2%B7+Lamarr+Institute+%F0%9F%87%A9%F0%9F%87%AA" alt="Industrial AI research interests"/>
 
