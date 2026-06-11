@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:ec4899,100:4f46e5&height=200&section=header&text=Shaista%20Shabbir&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Research%20Associate%20%7C%20TU%20Dortmund%20%7C%20Lamarr%20Institute%20for%20ML%20%26%20AI&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:ec4899,100:4f46e5&amp;height=200&amp;section=header&amp;text=Shaista%20Shabbir&amp;fontSize=48&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Research%20Associate%20%7C%20TU%20Dortmund%20%7C%20Lamarr%20Institute%20for%20ML%20%26%20AI&amp;descAlignY=58&amp;descSize=15" width="100%" alt="Shaista Shabbir profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Industrial+AI+Researcher+%F0%9F%A4%96;Machining+Stability+%7C+Chatter+Detection;Acoustic+Monitoring+%7C+Signal+Processing;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+%C2%B7+Lamarr+Institute+%F0%9F%87%A9%F0%9F%87%AA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Industrial+AI+Researcher+%F0%9F%A4%96;Machining+Stability+%7C+Chatter+Detection;Acoustic+Monitoring+%7C+Signal+Processing;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+%C2%B7+Lamarr+Institute+%F0%9F%87%A9%F0%9F%87%AA" alt="Industrial AI research interests"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://shaistashabbir-prog.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaista.s.shabbir@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=ShaistaShabbir-prog&amp;label=Profile+Views&color=7c3aed&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=ShaistaShabbir-prog&amp;label=Profile+Views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&hide_border=false"/>
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&amp;layout=compact&amp;theme=tokyonight&amp;border_color=7C3AED&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;text_color=c9d1d9&amp;hide_border=false" alt="Most used languages"/>
 
 ```python
 class Researcher:
@@ -57,8 +57,6 @@ class Researcher:
 ```
 
 <br clear="right"/>
-
----
 
 ---
 
@@ -123,9 +121,21 @@ class Researcher:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&hide=contribs,issues&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=7C3AED&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;icon_color=7C3AED&amp;text_color=c9d1d9&amp;hide=contribs,issues&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="48%" alt="Shaista Shabbir's GitHub statistics"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaistaShabbir-prog&theme=tokyonight&border=7C3AED&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaistaShabbir-prog&amp;theme=tokyonight&amp;border=7C3AED&amp;background=0d1117&amp;ring=A78BFA&amp;fire=FF6B6B&amp;currStreakLabel=A78BFA" width="48%" alt="GitHub contribution streak"/>
+
+</div>
+
+### Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -156,8 +166,6 @@ class Researcher:
 | 🏸 | **Badminton Championship — 3× Consecutive** | Singles & Doubles · UMSIT · 2012–2016 |
 
 </div>
-
----
 
 ---
 
@@ -238,7 +246,7 @@ class Researcher:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4f46e5,50:7c3aed,100:ec4899&amp;height=100&amp;section=footer" width="100%" alt="Profile footer"/>
 
 <sub>⚡ Research Associate · TU Dortmund University · Lamarr Institute for ML & AI · Industrial AI · Machining Intelligence</sub>
 
