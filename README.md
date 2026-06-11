@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://shaistashabbir-prog.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaista.s.shabbir@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=ShaistaShabbir-prog&label=Profile+Views&color=7c3aed&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=ShaistaShabbir-prog&amp;label=Profile+Views&color=7c3aed&style=flat-square"/>
 
 </div>
 
