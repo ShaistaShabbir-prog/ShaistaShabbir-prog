@@ -159,6 +159,39 @@ class Researcher:
 
 ---
 
+---
+
+## 🔬 Research Repositories
+
+### 🔍 RepoGuardian-XAI
+**Explainable privacy and security auditor for AI-generated code.**
+
+- OWASP-aligned rules for secrets, PII logging, LLM injection, unsafe eval, path traversal, and insecure tool use
+- NetworkX knowledge graph linking files, functions, findings, and evidence paths
+- XAI-style explanations: what, why, where, evidence, severity, and fix recommendation
+- CLI, Streamlit dashboard, vulnerable/safe example repositories
+- Comprehensive tests and citation-ready documentation
+
+[![Repo](https://img.shields.io/badge/GitHub-RepoGuardian--XAI-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI/blob/main/LICENSE)
+
+---
+
+### 🔐 PrivExplain-KG
+**Privacy-aware auditor for SHAP/LIME explanations.**
+
+- Detects sensitive-feature exposure, proxy leakage, rare subgroup risk, and explanation privacy threats
+- Synthetic healthcare and student-performance datasets
+- RandomForest, LogisticRegression, SHAP, and counterfactual explanations
+- Knowledge graph linking features, sensitive concepts, explanations, and mitigations
+- Safe explanation generation with fidelity/privacy/utility trade-off metrics
+- Full test suite and publication-ready documentation
+
+[![Repo](https://img.shields.io/badge/GitHub-PrivExplain--KG-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/PrivExplain-KG)
+[![SHAP](https://img.shields.io/badge/SHAP-Explainability-orange?style=flat-square)](https://github.com/ShaistaShabbir-prog/PrivExplain-KG)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/PrivExplain-KG/blob/main/LICENSE)
+
 ## 📅 Research Journey
 
 ```
