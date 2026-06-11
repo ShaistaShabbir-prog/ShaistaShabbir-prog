@@ -33,7 +33,7 @@ class Researcher:
     research   = [
         "Industrial AI",
         "Machining Stability & Chatter Detection",
-        "Acoustic Monitoring (AudioIno)",
+        "Acoustic Monitoring",
         "Tool Wear Prediction",
         "Explainable ML (XAI)",
         "Signal Processing & FRF Analysis",
@@ -60,32 +60,6 @@ class Researcher:
 
 ---
 
-## 🔬 Flagship Research — AudioIno
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                       AudioIno Platform                          │
-│                                                                  │
-│  CNC Machine  ──►  Microphone Array   ──►  Signal Processing    │
-│  (Milling op)      PCB · B5 · HI10        STFT · Welch PSD      │
-│                    TASCAM DR-40X          Spectrogram Analysis   │
-│                           │                                      │
-│                           ▼                                      │
-│              Expert Annotation Interface                         │
-│         Stable | Metastable | Chatter labelling                  │
-│                           │                                      │
-│                           ▼                                      │
-│    ML Models  ──►  Chatter Prediction  ──►  Manufacturing Intel  │
-│    CNN · XAI       FRF / Impact Hammer      Closed-loop Control  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-**Goal:** Build trustworthy, interpretable AI systems for intelligent manufacturing — bridging acoustic signal processing, machine learning, and domain-expert knowledge.
-
 ---
 
 ## 🚀 Research Software
@@ -95,7 +69,7 @@ class Researcher:
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | [📚 ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | Research Quality Platform — structured review, reproducibility scoring | Next.js · FastAPI · Claude AI | [🌐 Live](https://research-os-phi.vercel.app) |
-| [⚙️ MachiningOS](https://github.com/ShaistaShabbir-prog/machining-os) | AI Copilot for Machining Stability — FFT, spectrogram, chatter detection | Next.js · FastAPI · NumPy/SciPy | [🌐 Live](https://machining-os.vercel.app) |
+| [⚙️ MachiningOS](https://github.com/ShaistaShabbir-prog/machining-os) | AI Copilot for Machining Stability | Next.js · FastAPI · Python | [🌐 Live](https://machining-os.vercel.app) |
 | [🌍 VisaVista](https://github.com/ShaistaShabbir-prog/start-in-germany-full) | Immigration platform for South Asians moving to Europe | Next.js 14 · TypeScript · Claude AI | [🌐 Live](https://start-in-germany-full.vercel.app) |
 | [🌍 disaster-event-chatbot](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) | Real-time disaster intelligence — USGS · GDACS · ReliefWeb | FastAPI · LangGraph · Streamlit | [GitHub](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) |
 
@@ -161,9 +135,9 @@ class Researcher:
 
 | Status | Title | Domain |
 |---|---|---|
-| 🟡 In Progress | AudioIno: Expert-Guided Annotation for Machining Stability | Chatter Detection · Human-in-the-loop |
-| 🟡 In Progress | Low-Cost Acoustic Monitoring for CNC Milling: Spectral Fidelity Evaluation | Acoustic Monitoring · Signal Processing |
-| 🟡 In Progress | Tool Wear Prediction from Multimodal Machining Signals | CNN · Explainable ML · Tool Condition |
+| 🟡 In Progress | AudioIno: Machining Stability Platform | Industrial AI · ML |
+| 🟡 In Progress | Acoustic Monitoring for CNC Milling | Signal Processing · ML |
+| 🟡 In Progress | Tool Wear Prediction from Machining Signals | Explainable ML · ML |
 | 📄 Manuscript | Quality Assurance Issues in Software Development | SQA · CMMI · IEEE 730 |
 | 📄 Manuscript | Communication Problems in Requirements Engineering | RE · Software Engineering |
 
@@ -197,7 +171,7 @@ class Researcher:
 2022  ── Research Assistant @ HITeC / University of Hamburg
            CoyPu · EVASST · DigitalCurri · EWIVIKIS
 2025  ── Research Associate @ TU Dortmund · Lamarr Institute  ◄── NOW
-           AudioIno · Acoustic Monitoring · Chatter Detection · Tool Wear · FRF Analysis
+           Machining Stability Research · Industrial AI · Explainable ML
 ```
 
 ---
