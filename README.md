@@ -40,7 +40,7 @@ class Researcher:
     ]
 
     education  = {
-        "PhD (ongoing)": "TU Dortmund University",
+        
         "MSCS":          "Virtual University of Pakistan",
         "MA Education":  "AIOU Islamabad",
         "BSCS 🥇":       "University of Kotli AJK — Gold Medal",
