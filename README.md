@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Shaista Shabbir profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Industrial+AI+Researcher+%F0%9F%A4%96;Machining+Stability+%7C+Chatter+Detection;Acoustic+Monitoring+%7C+Signal+Processing;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+%C2%B7+Lamarr+Institute+%F0%9F%87%A9%F0%9F%87%AA" alt="Industrial AI research interests"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Industrial+AI+Researcher+%F0%9F%A4%96;Building+ResearchOS+%7C+AI+Peer+Review+Platform;Navigate+Germany+%7C+Immigrant+Resource+Hub;Machining+Stability+%7C+Chatter+Detection;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+%C2%B7+Lamarr+Institute+%F0%9F%87%A9%F0%9F%87%AA" alt="Industrial AI research interests"/>
 
 <br/>
 
@@ -31,11 +31,11 @@ class Researcher:
     chair      = "Virtual Machining (VM)"
 
     research   = [
-        "Industrial AI",
-        "Machining Stability & Chatter Detection",
-        "Acoustic Monitoring",
-        "Tool Wear Prediction",
-        "Explainable ML (XAI)",
+        "Industrial AI & Machining Stability",
+        "Chatter Detection & Acoustic Monitoring",
+        "Explainable ML (XAI) & Trustworthy AI",
+        "AI-Powered Peer Review (ResearchOS)",
+        "Immigrant Tech & Civic AI (Navigate Germany)",
         "Signal Processing & FRF Analysis",
     ]
 
@@ -66,10 +66,12 @@ class Researcher:
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [📚 ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | Research Quality Platform — structured review, reproducibility scoring | Next.js · FastAPI · Claude AI | [🌐 Live](https://research-os-phi.vercel.app) |
-| [⚙️ MachiningOS](https://github.com/ShaistaShabbir-prog/machining-os) | AI Copilot for Machining Stability | Next.js · FastAPI · Python | [🌐 Live](https://machining-os.vercel.app) |
-| [🌍 VisaVista](https://github.com/ShaistaShabbir-prog/start-in-germany-full) | Immigration platform for South Asians moving to Europe | Next.js 14 · TypeScript · Claude AI | [🌐 Live](https://start-in-germany-full.vercel.app) |
-| [🌍 disaster-event-chatbot](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) | Real-time disaster intelligence — USGS · GDACS · ReliefWeb | FastAPI · LangGraph · Streamlit | [GitHub](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) |
+| [📚 ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | AI-powered peer review platform — claim verification, reviewer fatigue, research memory | Next.js · FastAPI · Claude AI | [🌐 Live](https://research-os-phi.vercel.app) |
+| [🌍 Navigate Germany](https://github.com/ShaistaShabbir-prog/navigate-germany) | Multilingual immigrant resource hub — 11 modules, 16 states, 10 languages, RTL support | Vanilla JS · i18n · GitHub Pages | [🌐 Live](https://shaistashabbir-prog.github.io/navigate-germany/) |
+| [⚙️ MachiningOS](https://github.com/ShaistaShabbir-prog/machining-os) | AI Copilot for Machining Stability & Chatter Detection | Next.js · FastAPI · Python | [🌐 Live](https://machining-os.vercel.app) |
+| [🔐 RepoGuardian-XAI](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI) | Explainable privacy & security auditor for AI-generated code | Python · NetworkX · OWASP | [GitHub](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI) |
+| [🔬 PrivExplain-KG](https://github.com/ShaistaShabbir-prog/PrivExplain-KG) | Privacy-aware auditor for SHAP/LIME explanations | Python · SHAP · Knowledge Graph | [GitHub](https://github.com/ShaistaShabbir-prog/PrivExplain-KG) |
+| [🌐 disaster-event-chatbot](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) | Real-time disaster intelligence — USGS · GDACS · ReliefWeb | FastAPI · LangGraph · Streamlit | [GitHub](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) |
 
 </div>
 
@@ -170,6 +172,40 @@ class Researcher:
 ---
 
 ## 🔬 Research Repositories
+
+### 🌍 Navigate Germany
+
+**Multilingual practical guide for immigrants living in Germany.**
+
+- 11 life modules: Housing, Healthcare, Jobs & Visa, Legal Help, Language, Banking & Taxes, Family, Transport, Emergency, Documents, Bureaucracy
+- 16 Bundesländer state guides with local authority links
+- 10 languages with full RTL support for Arabic, Urdu, and Farsi
+- Live AI assistant (Ask Germany AI) powered by Claude
+- Zero backend — GitHub Pages hosted, works offline
+- All 62 i18n keys translated across 10 languages
+
+[![Live](https://img.shields.io/badge/Live-shaistashabbir--prog.github.io-brightgreen?style=flat-square&logo=github)](https://shaistashabbir-prog.github.io/navigate-germany/)
+[![Repo](https://img.shields.io/badge/GitHub-navigate--germany-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/navigate-germany)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/navigate-germany/blob/main/LICENSE)
+
+---
+
+### 📚 ResearchOS
+
+**AI-powered academic peer review quality platform.**
+
+- Review Copilot: claim audit, reproducibility checklist, citation coverage, knowledge graph
+- Claim Verification Engine: extract claims, score evidence support, flag unsupported assertions
+- Reviewer Fatigue Assistant: summarise reviews, disagreement matrix, AC briefing, meta-review draft
+- Research Memory: compare 2–10 papers for novelty/citation/contribution overlap
+- Executive dashboard: 5 score rings, Top-5 Issues, collapsible findings, AC Report export
+- PDF upload with text extraction (pdf.js)
+
+[![Live](https://img.shields.io/badge/Live-research--os--phi.vercel.app-brightgreen?style=flat-square&logo=vercel)](https://research-os-phi.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-research--os-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/research-os)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/research-os/blob/main/LICENSE)
+
+---
 
 ### 🔍 RepoGuardian-XAI
 **Explainable privacy and security auditor for AI-generated code.**
