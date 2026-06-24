@@ -43,14 +43,14 @@ class Researcher:
         
         "MSCS":          "Virtual University of Pakistan",
         "MA Education":  "AIOU Islamabad",
-        "BSCS 🥇":       "University of Kotli AJK — Gold Medal",
+        "BSCS 🥇":       "University of AJK Muzaffarabad — Gold Medal",
     }
 
     awards     = [
         "🏆 DAAD Fully Funded Scholarship",
         "🏆 HEC Overseas Scholarship",
         "🏆 Faculty Development Program (Overseas)",
-        "🥇 Gold Medal BSCS — CGPA 3.98 / 4.00",
+        "🥇 Gold Medal BSCS ",
     ]
 
     fun_fact   = "3× Badminton Champion 🏸"
@@ -161,7 +161,7 @@ class Researcher:
 
 | 🏅 | Award | Details |
 |---|---|---|
-| 🥇 | **Gold Medal BSCS — 1st Position** | CGPA 3.98/4.00 · University of Kotli AJK · 2016 |
+| 🥇 | **Gold Medal BSCS — 1st Position** | University of AJK Muzaffarabad · 2016 |
 | 🎓 | **DAAD Fully Funded Scholarship** | German Academic Exchange Service · 2022 |
 | 🎓 | **HEC Overseas Scholarship** | Higher Education Commission Pakistan |
 | 🎓 | **Faculty Development Program (Overseas)** | Government of Pakistan |
