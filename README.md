@@ -287,3 +287,35 @@ class Researcher:
 <sub>⚡ Research Associate · TU Dortmund University · Lamarr Institute for ML & AI · Industrial AI · Machining Intelligence</sub>
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ShaistaShabbir-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Live |
+|---|---|---|
+| 🔬 [ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | AI peer review platform — claims, reproducibility, Claude API | [▶ Live](https://research-os-phi.vercel.app) |
+| 🇩🇪 [Navigate Germany](https://github.com/ShaistaShabbir-prog/navigate-germany) | Multilingual immigrant guide — 10 languages, 14 modules | [▶ Live](https://shaistashabbir-prog.github.io/navigate-germany/) |
+| 🤖 [RAG_LANGCHAIN](https://github.com/ShaistaShabbir-prog/RAG_LANGCHAIN) | RAG document QA system — FastAPI, FAISS, LangChain | API |
+| 🍭 [Sweet Crush](https://github.com/ShaistaShabbir-prog/candy-crush-match3) | Match-3 puzzle game — 100 levels, PWA | [▶ Play](https://shaistashabbir-prog.github.io/candy-crush-match3) |
+
+</div>
+
