@@ -100,13 +100,14 @@ class Researcher:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&border_color=7C3AED&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&border_color=7C3AED&langs_count=8" alt="Top Languages"/>
+<img src="./assets/stats.svg" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="./assets/languages.svg" width="48%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ShaistaShabbir-prog&theme=tokyonight&background=0d1117&border=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<!-- Streak stats — loads from external but fails gracefully -->
+<img src="https://streak-stats.demolab.com/?user=ShaistaShabbir-prog&theme=tokyonight&background=0d1117&border=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak" onerror="this.style.display='none'"/>
 
 </div>
 
