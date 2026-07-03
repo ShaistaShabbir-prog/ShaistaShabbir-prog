@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Shaista Shabbir profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Industrial+AI+Researcher+%F0%9F%A4%96;Building+ResearchOS+%7C+AI+Peer+Review+Platform;Navigate+Germany+%7C+Immigrant+Resource+Hub;Machining+Stability+%7C+Chatter+Detection;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+%C2%B7+Lamarr+Institute+%F0%9F%87%A9%F0%9F%87%AA" alt="Industrial AI research interests"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Industrial+AI+Researcher+🤖;Building+ResearchOS+%7C+AI+Peer+Review+Platform;Navigate+Germany+%7C+Immigrant+Resource+Hub;Machining+Stability+%7C+Chatter+Detection;Explainable+ML+%7C+Trustworthy+AI;TU+Dortmund+·+Lamarr+Institute+🇩🇪" alt="Typing animation"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://shaistashabbir-prog.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaista.s.shabbir@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=ShaistaShabbir-prog&amp;label=Profile+Views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ShaistaShabbir-prog&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&amp;layout=compact&amp;theme=tokyonight&amp;border_color=7C3AED&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;text_color=c9d1d9&amp;hide_border=false" alt="Most used languages"/>
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top languages"/>
 
 ```python
 class Researcher:
@@ -40,17 +40,16 @@ class Researcher:
     ]
 
     education  = {
-        
-        "MSCS":          "Virtual University of Pakistan",
-        "MA Education":  "AIOU Islamabad",
-        "BSCS 🥇":       "University of AJK Muzaffarabad — Gold Medal",
+        "MSCS":         "Virtual University of Pakistan",
+        "MA Education": "AIOU Islamabad",
+        "BSCS 🥇":      "University of AJK — Gold Medal",
     }
 
     awards     = [
         "🏆 DAAD Fully Funded Scholarship",
         "🏆 HEC Overseas Scholarship",
         "🏆 Faculty Development Program (Overseas)",
-        "🥇 Gold Medal BSCS ",
+        "🥇 Gold Medal BSCS",
     ]
 
     fun_fact   = "3× Badminton Champion 🏸"
@@ -66,14 +65,31 @@ class Researcher:
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [📚 ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | AI-powered peer review platform — claim verification, reviewer fatigue, research memory | Next.js · FastAPI · Claude AI | [🌐 Live](https://research-os-phi.vercel.app) |
-| [🌍 Navigate Germany](https://github.com/ShaistaShabbir-prog/navigate-germany) | Multilingual immigrant resource hub — 11 modules, 16 states, 10 languages, RTL support | Vanilla JS · i18n · GitHub Pages | [🌐 Live](https://shaistashabbir-prog.github.io/navigate-germany/) |
-| [⚙️ MachiningOS](https://github.com/ShaistaShabbir-prog/machining-os) | AI Copilot for Machining Stability & Chatter Detection | Next.js · FastAPI · Python | [🌐 Live](https://machining-os.vercel.app) |
-| [🔐 RepoGuardian-XAI](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI) | Explainable privacy & security auditor for AI-generated code | Python · NetworkX · OWASP | [GitHub](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI) |
+| [📚 ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | AI-powered peer review platform | Next.js · FastAPI · Claude AI | [🌐 Live](https://research-os-phi.vercel.app) |
+| [🌍 Navigate Germany](https://github.com/ShaistaShabbir-prog/navigate-germany) | Multilingual immigrant resource hub — 10 languages, RTL | Vanilla JS · i18n · GitHub Pages | [🌐 Live](https://shaistashabbir-prog.github.io/navigate-germany/) |
+| [⚙️ A.L.E.R.T](https://github.com/ShaistaShabbir-prog/EventDetectionAndEventExtraction) | Civil event detection & geolocation — Hamburg | BERT · RoBERTa · Streamlit | [🌐 App](https://eventdetectionandeventextraction-typswjt5ulzl5d9hqmvyqz.streamlit.app/) |
+| [🔐 RepoGuardian-XAI](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI) | Explainable privacy & security auditor for AI code | Python · NetworkX · OWASP | [GitHub](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI) |
 | [🔬 PrivExplain-KG](https://github.com/ShaistaShabbir-prog/PrivExplain-KG) | Privacy-aware auditor for SHAP/LIME explanations | Python · SHAP · Knowledge Graph | [GitHub](https://github.com/ShaistaShabbir-prog/PrivExplain-KG) |
-| [🌐 disaster-event-chatbot](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) | Real-time disaster intelligence — USGS · GDACS · ReliefWeb | FastAPI · LangGraph · Streamlit | [GitHub](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) |
+| [🌐 disaster-event-chatbot](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) | Real-time disaster intelligence | FastAPI · LangGraph · Streamlit | [GitHub](https://github.com/ShaistaShabbir-prog/disaster-event-chatbot) |
 
 </div>
+
+---
+
+## 📅 Research Journey
+
+```
+2012  ── BSCS @ UMSIT Kotli AJK  ─────────────────── 🥇 Gold Medal · CGPA 3.98
+2014  ── Web Dev Internship @ Arfa Kareem IT Institute
+2016  ── ALSK FYP · Hired as Permanent Lecturer
+2017  ── MSCS @ Virtual University of Pakistan
+2019  ── Computer Lecturer @ University of Kotli AJK
+2020  ── MA Education @ AIOU Islamabad
+2022  ── Research Assistant @ HITeC / University of Hamburg
+           CoyPu · EVASST · DigitalCurri · EWIVIKIS
+2025  ── Research Associate @ TU Dortmund · Lamarr Institute ◄── NOW
+           Machining Stability · Industrial AI · Explainable ML
+```
 
 ---
 
@@ -87,7 +103,6 @@ class Researcher:
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Machine Learning & AI**
@@ -104,13 +119,11 @@ class Researcher:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -123,20 +136,20 @@ class Researcher:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=7C3AED&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;icon_color=7C3AED&amp;text_color=c9d1d9&amp;hide=contribs,issues&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="48%" alt="Shaista Shabbir's GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaistaShabbir-prog&amp;theme=tokyonight&amp;border=7C3AED&amp;background=0d1117&amp;ring=A78BFA&amp;fire=FF6B6B&amp;currStreakLabel=A78BFA" width="48%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaistaShabbir-prog&theme=tokyonight&border=7C3AED&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="48%" alt="GitHub streak"/>
 
 </div>
 
-### Contribution Graph
+### 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ShaistaShabbir-prog/ShaistaShabbir-prog/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -149,9 +162,9 @@ class Researcher:
 |---|---|---|
 | 🟡 In Progress | AudioIno: Machining Stability Platform | Industrial AI · ML |
 | 🟡 In Progress | Acoustic Monitoring for CNC Milling | Signal Processing · ML |
-| 🟡 In Progress | Tool Wear Prediction from Machining Signals | Explainable ML · ML |
-| 📄 Manuscript | Quality Assurance Issues in Software Development | SQA · CMMI · IEEE 730 |
-| 📄 Manuscript | Communication Problems in Requirements Engineering | RE · Software Engineering |
+| 🟡 In Progress | Tool Wear Prediction from Machining Signals | Explainable ML |
+| 📄 Manuscript | Quality Assurance Issues in Software Development | SQA · IEEE 730 |
+| 📄 Manuscript | Communication Problems in Requirements Engineering | RE · SE |
 
 ---
 
@@ -168,88 +181,6 @@ class Researcher:
 | 🏸 | **Badminton Championship — 3× Consecutive** | Singles & Doubles · UMSIT · 2012–2016 |
 
 </div>
-
----
-
-## 🔬 Research Repositories
-
-### 🌍 Navigate Germany
-
-**Multilingual practical guide for immigrants living in Germany.**
-
-- 11 life modules: Housing, Healthcare, Jobs & Visa, Legal Help, Language, Banking & Taxes, Family, Transport, Emergency, Documents, Bureaucracy
-- 16 Bundesländer state guides with local authority links
-- 10 languages with full RTL support for Arabic, Urdu, and Farsi
-- Live AI assistant (Ask Germany AI) powered by Claude
-- Zero backend — GitHub Pages hosted, works offline
-- All 62 i18n keys translated across 10 languages
-
-[![Live](https://img.shields.io/badge/Live-shaistashabbir--prog.github.io-brightgreen?style=flat-square&logo=github)](https://shaistashabbir-prog.github.io/navigate-germany/)
-[![Repo](https://img.shields.io/badge/GitHub-navigate--germany-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/navigate-germany)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/navigate-germany/blob/main/LICENSE)
-
----
-
-### 📚 ResearchOS
-
-**AI-powered academic peer review quality platform.**
-
-- Review Copilot: claim audit, reproducibility checklist, citation coverage, knowledge graph
-- Claim Verification Engine: extract claims, score evidence support, flag unsupported assertions
-- Reviewer Fatigue Assistant: summarise reviews, disagreement matrix, AC briefing, meta-review draft
-- Research Memory: compare 2–10 papers for novelty/citation/contribution overlap
-- Executive dashboard: 5 score rings, Top-5 Issues, collapsible findings, AC Report export
-- PDF upload with text extraction (pdf.js)
-
-[![Live](https://img.shields.io/badge/Live-research--os--phi.vercel.app-brightgreen?style=flat-square&logo=vercel)](https://research-os-phi.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-research--os-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/research-os)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/research-os/blob/main/LICENSE)
-
----
-
-### 🔍 RepoGuardian-XAI
-**Explainable privacy and security auditor for AI-generated code.**
-
-- OWASP-aligned rules for secrets, PII logging, LLM injection, unsafe eval, path traversal, and insecure tool use
-- NetworkX knowledge graph linking files, functions, findings, and evidence paths
-- XAI-style explanations: what, why, where, evidence, severity, and fix recommendation
-- CLI, Streamlit dashboard, vulnerable/safe example repositories
-- Comprehensive tests and citation-ready documentation
-
-[![Repo](https://img.shields.io/badge/GitHub-RepoGuardian--XAI-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/RepoGuardian-XAI/blob/main/LICENSE)
-
----
-
-### 🔐 PrivExplain-KG
-**Privacy-aware auditor for SHAP/LIME explanations.**
-
-- Detects sensitive-feature exposure, proxy leakage, rare subgroup risk, and explanation privacy threats
-- Synthetic healthcare and student-performance datasets
-- RandomForest, LogisticRegression, SHAP, and counterfactual explanations
-- Knowledge graph linking features, sensitive concepts, explanations, and mitigations
-- Safe explanation generation with fidelity/privacy/utility trade-off metrics
-- Full test suite and publication-ready documentation
-
-[![Repo](https://img.shields.io/badge/GitHub-PrivExplain--KG-181717?style=flat-square&logo=github)](https://github.com/ShaistaShabbir-prog/PrivExplain-KG)
-[![SHAP](https://img.shields.io/badge/SHAP-Explainability-orange?style=flat-square)](https://github.com/ShaistaShabbir-prog/PrivExplain-KG)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/ShaistaShabbir-prog/PrivExplain-KG/blob/main/LICENSE)
-
-## 📅 Research Journey
-
-```
-2012  ── BSCS @ UMSIT Kotli AJK  ─────────────────────── 🥇 Gold Medal · CGPA 3.98
-2014  ── Web Dev Internship @ Arfa Kareem IT Institute
-2016  ── ALSK: Arms Licensing System (FYP)  ──────────── Hired as Permanent Lecturer
-2017  ── MSCS @ Virtual University of Pakistan
-2019  ── Computer Lecturer @ University of Kotli AJK
-2020  ── MA Education @ AIOU Islamabad
-2022  ── Research Assistant @ HITeC / University of Hamburg
-           CoyPu · EVASST · DigitalCurri · EWIVIKIS
-2025  ── Research Associate @ TU Dortmund · Lamarr Institute  ◄── NOW
-           Machining Stability Research · Industrial AI · Explainable ML
-```
 
 ---
 
@@ -282,40 +213,8 @@ class Researcher:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4f46e5,50:7c3aed,100:ec4899&amp;height=100&amp;section=footer" width="100%" alt="Profile footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:ec4899&height=100&section=footer" width="100%" alt="Footer"/>
 
-<sub>⚡ Research Associate · TU Dortmund University · Lamarr Institute for ML & AI · Industrial AI · Machining Intelligence</sub>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShaistaShabbir-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaistaShabbir-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ShaistaShabbir-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<sub>⚡ Research Associate · TU Dortmund University · Lamarr Institute for ML & AI</sub>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Live |
-|---|---|---|
-| 🔬 [ResearchOS](https://github.com/ShaistaShabbir-prog/research-os) | AI peer review platform — claims, reproducibility, Claude API | [▶ Live](https://research-os-phi.vercel.app) |
-| 🇩🇪 [Navigate Germany](https://github.com/ShaistaShabbir-prog/navigate-germany) | Multilingual immigrant guide — 10 languages, 14 modules | [▶ Live](https://shaistashabbir-prog.github.io/navigate-germany/) |
-| 🤖 [RAG_LANGCHAIN](https://github.com/ShaistaShabbir-prog/RAG_LANGCHAIN) | RAG document QA system — FastAPI, FAISS, LangChain | API |
-| 🍭 [Sweet Crush](https://github.com/ShaistaShabbir-prog/candy-crush-match3) | Match-3 puzzle game — 100 levels, PWA | [▶ Play](https://shaistashabbir-prog.github.io/candy-crush-match3) |
-
-</div>
-
