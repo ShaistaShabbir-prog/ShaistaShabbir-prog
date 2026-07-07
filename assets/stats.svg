@@ -1,51 +1,43 @@
-<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+<svg width="495" height="165" viewBox="0 0 495 165" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      .title { fill: #A78BFA; font-size: 14px; font-weight: 600; font-family: 'Segoe UI', sans-serif; }
-      .stat-label { fill: #c9d1d9; font-size: 12px; font-family: 'Segoe UI', sans-serif; }
-      .stat-value { fill: #A78BFA; font-size: 12px; font-weight: 600; font-family: 'Segoe UI', sans-serif; }
-      .icon { fill: #7C3AED; }
-    </style>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
+    <style>
+      .title { fill:#A78BFA; font-size:13px; font-weight:700; font-family:"Segoe UI",sans-serif; }
+      .label { fill:#8b949e; font-size:11px; font-family:"Segoe UI",sans-serif; }
+      .value { fill:#e6edf3; font-size:12px; font-weight:700; font-family:"Segoe UI",sans-serif; }
+      .accent { fill:#A78BFA; }
+    </style>
   </defs>
-  <rect width="495" height="195" rx="10" fill="url(#bg)" stroke="#7C3AED" stroke-width="1"/>
-  
+  <rect width="495" height="165" rx="10" fill="url(#bg)" stroke="#7C3AED" stroke-width="1.2"/>
+
   <!-- Title -->
-  <text x="25" y="35" class="title">Shaista Shabbir's GitHub Stats</text>
-  
-  <!-- Stars icon + value -->
-  <text x="25" y="75" class="stat-label">⭐ Total Stars</text>
-  <text x="220" y="75" class="stat-value">17</text>
-  
-  <!-- Commits -->
-  <text x="25" y="105" class="stat-label">📦 Public Repos</text>
-  <text x="220" y="105" class="stat-value">16</text>
-  
-  <!-- Followers -->
-  <text x="25" y="135" class="stat-label">👥 Followers</text>
-  <text x="220" y="135" class="stat-value">89</text>
-  
-  <!-- Following -->
-  <text x="25" y="165" class="stat-label">👤 Following</text>
-  <text x="220" y="165" class="stat-value">94</text>
-  
-  <!-- Right column -->
-  <!-- Python -->
-  <text x="260" y="75" class="stat-label">🐍 Python</text>
-  <text x="420" y="75" class="stat-value">12.8%</text>
-  
-  <!-- TypeScript -->
-  <text x="260" y="105" class="stat-label">📘 TypeScript</text>
-  <text x="420" y="105" class="stat-value">33.4%</text>
-  
-  <!-- JavaScript -->
-  <text x="260" y="135" class="stat-label">🟡 JavaScript</text>
-  <text x="420" y="135" class="stat-value">17.3%</text>
-  
-  <!-- HTML -->
-  <text x="260" y="165" class="stat-label">🌐 HTML/CSS</text>
-  <text x="420" y="165" class="stat-value">35.3%</text>
+  <text x="25" y="30" class="title">Shaista Shabbir&#39;s GitHub Stats</text>
+
+  <!-- Row 1 -->
+  <text x="25"  y="60" class="label">⭐  Total Stars</text>
+  <text x="185" y="60" class="value accent">24</text>
+
+  <text x="260" y="60" class="label">📦  Public Repos</text>
+  <text x="440" y="60" class="value accent">16</text>
+
+  <!-- Row 2 -->
+  <text x="25"  y="90" class="label">👥  Followers</text>
+  <text x="185" y="90" class="value">94</text>
+
+  <text x="260" y="90" class="label">👤  Following</text>
+  <text x="440" y="90" class="value">101</text>
+
+  <!-- Row 3 -->
+  <text x="25"  y="120" class="label">🔀  Total Forks</text>
+  <text x="185" y="120" class="value">0</text>
+
+  <text x="260" y="120" class="label">🌐  Profile Views</text>
+  <text x="440" y="120" class="value accent">—</text>
+
+  <!-- Footer -->
+  <line x1="25" y1="135" x2="470" y2="135" stroke="#30363d" stroke-width="0.8"/>
+  <text x="25" y="152" class="label">Research Associate · TU Dortmund · Lamarr Institute · 2025</text>
 </svg>
